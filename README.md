@@ -2,4 +2,4 @@
 
 Control Fan Utility was created by Estwald and is updated by various developers
 
-Last update: 08/29/2019
+Last update: 08/29/2019 https://t.co/utR2NRQqT9
